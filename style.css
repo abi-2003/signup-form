@@ -1,0 +1,57 @@
+.regform{
+    margin:250px auto;
+    border:2px solid black;
+    width:70%;
+    background-color:rgba(255,255,255,.5);
+    padding:10px 20px 10px;
+    font-size: 30px;
+    border-radius:20px;
+    
+}
+body{
+    background:url(/images/signupbg.jpg);
+    
+}
+h2{
+    text-align: center;
+}
+.input label{
+    display:block;
+
+}
+button{
+margin: 20px auto;
+}
+.input input{
+    width:80%;
+    font-size:.7em;
+    border-radius:10px;
+    
+}
+input:focus{
+    background-color: rgb(167, 162, 229);
+}
+.button{
+    text-align: center;
+    
+}
+button{
+    padding:10px 20px;
+    font-size: 25px;
+    font-style: bold;
+    background-color:rgb(222, 190, 206);
+    border-radius:10px;
+}
+.radio input{
+    transform:scale(1.5);
+    accent-color:rgb(29, 5, 78) ;
+}
+.tq{
+    background-image:url(/images/bggg.jpg);
+    border:2px solid black;
+    border-width:10px ;
+    margin:250px auto;
+    font-size: 50px;
+    font-style:oblique;
+
+}
